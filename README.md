@@ -17,3 +17,6 @@ No caso desse código foi utilizado para informa o resultado da operação escol
 Foi criado um tratamento de erro utilizando o método Number com a intenção que o dado passado pelo usuário fosse convertido em numero sendo testado pela condicional IF ELSE junto ao operador ‘!’(de negação lógica) para que fosse validado se os dado inseridos pelo usuário viesse a ser do tipo numero e menor que sete, pois o menu de opção só permite a escolha entre 1 à 6. Foi utilizada a mesma logica para que fosse trato o erro caso o usuário na hora de informa os respectivos números para realização das operações aritméticas, não viesse a informar outro tipo de valor a não ser do tipo número. 
 
 Confira o programa em execução clicando no link abaixo: 
+
+
+https://gabrielmendes16.github.io/calculadora-com-JavaScript/
